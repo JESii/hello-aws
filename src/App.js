@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn you an AWS with great good!
+          Learn you an AWS for great good!
         </a>
       </header>
     </div>

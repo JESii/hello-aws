@@ -1,0 +1,394 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@swc/helpers": "~0.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^3.5.1",
+    "@nx/eslint": "17.2.8",
+    "@nx/eslint-plugin": "17.2.8",
+    "@nx/js": "17.2.8",
+    "@nx/react": "17.2.8",
+    "@nx/vite": "17.2.8",
+    "@nx/workspace": "17.2.8",
+    "@swc-node/register": "~1.6.7",
+    "@swc/cli": "~0.1.62",
+    "@swc/core": "~1.3.85",
+    "@testing-library/react": "14.0.0",
+    "@testing-library/jest-dom": "^6.2.0",
+    "@testing-library/user-event": "^14.0.0",
+    "@types/node": "18.14.2",
+    "@types/react": "18.2.33",
+    "@types/react-dom": "18.2.14",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "@vitejs/plugin-react": "^4.2.1",
+    "@vitest/coverage-v8": "~0.34.6",
+    "@vitest/ui": "~0.34.6",
+    "eslint": "~8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-jsx-a11y": "6.7.1",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "jest-watch-typeahead": "^2.2.2",
+    "jsdom": "~22.1.0",
+    "nx": "17.2.8",
+    "prettier": "^2.6.2",
+    "typescript": "~5.2.2",
+    "vite": "^5.0.10",
+    "vitest": "^1.1.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "build/static/js/main.c097e91a.js.LICENSE.txt",
+        "hash": "14647736669511024625"
+      },
+      {
+        "file": "build/static/css/main.f855e6bc.css",
+        "hash": "9188576921597261316"
+      },
+      {
+        "file": "public/logo192.png",
+        "hash": "7585273181698778288"
+      },
+      {
+        "file": "build/static/js/main.c097e91a.js.map",
+        "hash": "2203519246563800054"
+      },
+      {
+        "file": "build/static/js/787.e68119a3.chunk.js",
+        "hash": "1491392677170745854"
+      },
+      {
+        "file": "build/index.html",
+        "hash": "496793978518337064"
+      },
+      {
+        "file": "public/logo512.png",
+        "hash": "9339365414554387981"
+      },
+      {
+        "file": "build/static/css/main.f855e6bc.css.map",
+        "hash": "6612552435015091811"
+      },
+      {
+        "file": ".tags",
+        "hash": "245144880060346015"
+      },
+      {
+        "file": "build/static/js/787.e68119a3.chunk.js.map",
+        "hash": "16159912682602633106"
+      },
+      {
+        "file": "public/index.html",
+        "hash": "13308863839730475495"
+      },
+      {
+        "file": "build/logo512.png",
+        "hash": "9339365414554387981"
+      },
+      {
+        "file": "build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+        "hash": "5137778160416929466"
+      },
+      {
+        "file": "public/robots.txt",
+        "hash": "2790380794362165217"
+      },
+      {
+        "file": "src/App.js",
+        "hash": "7102575656555662017"
+      },
+      {
+        "file": "build/logo192.png",
+        "hash": "7585273181698778288"
+      },
+      {
+        "file": "build/static/js/main.c097e91a.js",
+        "hash": "8458637342078072867"
+      },
+      {
+        "file": "package.json",
+        "hash": "17221404013413904851"
+      },
+      {
+        "file": "build/robots.txt",
+        "hash": "2790380794362165217"
+      },
+      {
+        "file": "public/manifest.json",
+        "hash": "1447645250373428393"
+      },
+      {
+        "file": "tags",
+        "hash": "7163058178682339108"
+      },
+      {
+        "file": "build/asset-manifest.json",
+        "hash": "1184012884894121441"
+      },
+      {
+        "file": "public/favicon.ico",
+        "hash": "2949791817221603359"
+      },
+      {
+        "file": "build/favicon.ico",
+        "hash": "2949791817221603359"
+      },
+      {
+        "file": "build/manifest.json",
+        "hash": "1447645250373428393"
+      }
+    ],
+    "projectFileMap": {
+      "hello-aws": [
+        {
+          "file": ".editorconfig",
+          "hash": "5443105041930014821"
+        },
+        {
+          "file": ".eslintignore",
+          "hash": "7663861978715868291"
+        },
+        {
+          "file": ".eslintrc.json",
+          "hash": "12804373154984848024"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "2605354412882507050"
+        },
+        {
+          "file": ".prettierignore",
+          "hash": "16448050467312557263"
+        },
+        {
+          "file": ".prettierrc",
+          "hash": "16267754514737964994"
+        },
+        {
+          "file": ".tags",
+          "hash": "7278403944482092194"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "16884713733442577066"
+        },
+        {
+          "file": ".yarn/releases/yarn-1.22.19.cjs",
+          "hash": "4339254978497063728",
+          "deps": [
+            "npm:path",
+            "npm:util",
+            "npm:fs",
+            "npm:crypto",
+            "npm:stream",
+            "npm:url",
+            "npm:assert",
+            "npm:os",
+            "npm:buffer",
+            "npm:events",
+            "npm:http",
+            "npm:tty",
+            "npm:net",
+            "npm:https",
+            "npm:querystring",
+            "npm:readline",
+            "npm:zlib",
+            "npm:child_process",
+            "npm:punycode",
+            "npm:string_decoder",
+            "npm:constants",
+            "npm:tls",
+            "npm:dns",
+            "npm:domain",
+            [
+              "npm:util",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".yarnrc",
+          "hash": "6414922622098367488"
+        },
+        {
+          "file": "README.md",
+          "hash": "590883935899587822"
+        },
+        {
+          "file": "index.html",
+          "hash": "9863977302245678150"
+        },
+        {
+          "file": "nx.json",
+          "hash": "11022195446573838851"
+        },
+        {
+          "file": "package.json",
+          "hash": "11552423041031880772",
+          "deps": [
+            "npm:@swc/helpers",
+            "npm:react",
+            "npm:react-dom",
+            "npm:react-scripts",
+            "npm:web-vitals",
+            "npm:@nx/eslint",
+            "npm:@nx/eslint-plugin",
+            "npm:@nx/js",
+            "npm:@nx/react",
+            "npm:@nx/vite",
+            "npm:@nx/workspace",
+            "npm:@swc-node/register",
+            "npm:@swc/cli",
+            "npm:@swc/core",
+            "npm:@testing-library/react",
+            "npm:@testing-library/jest-dom",
+            "npm:@testing-library/user-event",
+            "npm:@types/node",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:@typescript-eslint/eslint-plugin",
+            "npm:@typescript-eslint/parser",
+            "npm:@vitejs/plugin-react",
+            "npm:@vitest/coverage-v8",
+            "npm:@vitest/ui",
+            "npm:eslint",
+            "npm:eslint-config-prettier",
+            "npm:eslint-config-react-app",
+            "npm:eslint-plugin-import",
+            "npm:eslint-plugin-jsx-a11y",
+            "npm:eslint-plugin-react",
+            "npm:eslint-plugin-react-hooks",
+            "npm:jest-watch-typeahead",
+            "npm:jsdom",
+            "npm:nx",
+            "npm:prettier",
+            "npm:typescript",
+            "npm:vite",
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "629762265625292177"
+        },
+        {
+          "file": "public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "public/index.html",
+          "hash": "13308863839730475495"
+        },
+        {
+          "file": "public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "src/App.css",
+          "hash": "3472201094699472689"
+        },
+        {
+          "file": "src/App.jsx",
+          "hash": "498248770624610530"
+        },
+        {
+          "file": "src/App.test.jsx",
+          "hash": "14776661775854159295",
+          "deps": [
+            "npm:@testing-library/react"
+          ]
+        },
+        {
+          "file": "src/index.css",
+          "hash": "14056909652331273425"
+        },
+        {
+          "file": "src/index.jsx",
+          "hash": "2247195792079615155",
+          "deps": [
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "src/logo.svg",
+          "hash": "5137778160416929466"
+        },
+        {
+          "file": "src/reportWebVitals.js",
+          "hash": "8937667725995285050",
+          "deps": [
+            [
+              "npm:web-vitals",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "src/setupTests.js",
+          "hash": "16903885983588411080",
+          "deps": [
+            "npm:@testing-library/jest-dom"
+          ]
+        },
+        {
+          "file": "tags.lock",
+          "hash": "15120838433638058113"
+        },
+        {
+          "file": "tags.temp",
+          "hash": "1544894795220073982"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "13508198677617291638"
+        },
+        {
+          "file": "tsconfig.base.json",
+          "hash": "918461261613401149"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "13784476790413232891"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "14111179903169258683"
+        },
+        {
+          "file": "vite.config.js",
+          "hash": "15696939064510339297",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react"
+          ]
+        },
+        {
+          "file": "yarn.lock",
+          "hash": "7488501220175972707"
+        }
+      ]
+    }
+  }
+}

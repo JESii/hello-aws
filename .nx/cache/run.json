@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run hello-aws:\"build\"",
+    "startTime": "2024-01-05T01:11:54.764Z",
+    "endTime": "2024-01-05T01:11:54.785Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "hello-aws:build",
+      "target": "build",
+      "projectName": "hello-aws",
+      "hash": "11332586596037212661",
+      "startTime": "2024-01-05T01:11:54.775Z",
+      "endTime": "2024-01-05T01:11:54.781Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    }
+  ]
+}
